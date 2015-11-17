@@ -4,7 +4,7 @@ import java.util.Arrays;
 public class SetDemo {
 
   public static void main(String args[]) { 
-     int count[] = {34, 22, 10, 60, 30, 22, 10, 13, 38, 42, 2834, 28, 58, 36};
+     int count[] = {34, 22, 10, 60, 30, 22, 10, 13, 38, 42, 2834, 28, 58, 36, 12, 10, 22, 38, 42};
      Set<Integer> set = new HashSet<Integer>();
 
      try{
