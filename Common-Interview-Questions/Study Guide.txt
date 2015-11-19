@@ -1,0 +1,39 @@
+TODO:
+	- [DONE] FizzBuzz, 
+	- [DONE] OOP concepts
+	- Basic database design
+	- [DONE] RESTful web service concepts  
+	- [DONE] RESTful web service example  
+	- [DONE] What is MVC
+	- Spring vs Java EE
+	- If a customer calls that a website is down, what are the steps you would go through to fix it? 
+	- A whiteboard-based exercise on designing/modeling the data and middle-tier components of a hypothetical web application
+	- [DONE] [important] what is concurrent programming?!!!
+		http://www-lb.cs.umd.edu/class/spring2002/cmsc433-0101/Lectures/cpjslides.pdf
+	- Java version querks between 7 and 8.
+	- Graphs, Graphs and more Graphs!
+	- Iterator
+
+For a quick start to Spring Framework.
+http://projects.spring.io/spring-framework/#quick-start
+
+Building a RESTful web service using SPRING!
+http://spring.io/guides/gs/rest-service/ 
+important!!
+
+Build.xml > ant
+Build.gradle > gradle
+pom.xml > maven
+
+
+Algorithms - > 
+http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/
+
+Picking a technology stack
+https://docs.google.com/presentation/d/1pA6reUNKqkfupSogZB4Q42Tk98VAq_loqkIDE-HSxAE/present?slide=id.p
+
+
+TODO:
+	1. [DONE] Spring Framework Starting
+	2. [DONE] Look at .NET architecture platform.
+	3. Look at 1 more example of DFS
